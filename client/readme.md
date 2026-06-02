@@ -57,3 +57,6 @@ Contribuições são bem-vindas! Por favor, faça um fork e envie um pull reques
 ## 📄 Licença
 
 Este projeto está licenciado sob a MIT License.
+
+## Deploy
+Para rodar o deploy da webapp, deve ser feito uma alteração em algum arquivo dentro da pasta client
