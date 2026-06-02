@@ -15,7 +15,7 @@ public class EmailService : IEmailService
 
   public EmailService(IConfiguration configuration)
   {
-    _resend = ResendClient.Create(configuration["resend-key"] ??
+    _resend = ResendClient.Create(configuration["resend_key"] ??
       throw new InvalidOperationException("ResendApiKey não configurada"));
   }
 
