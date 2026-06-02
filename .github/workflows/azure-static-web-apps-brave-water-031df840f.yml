@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - 'client/web-app/**'
+      - 'client/**'
 
   pull_request:
     types: [opened, synchronize, reopened, closed]
