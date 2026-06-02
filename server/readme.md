@@ -30,3 +30,6 @@ web-api/
 
 ## Contribuição
 Para contribuir, crie uma branch, faça suas alterações e envie um pull request.
+
+## Deploy
+Para rodar o deploy da webapi, deve ser feito uma alteração em algum arquivo dentro da pasta server
