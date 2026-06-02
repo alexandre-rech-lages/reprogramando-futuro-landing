@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://webapi-.brazilsouth-01.azurewebsites.net', // porta da sua API local
+  apiUrl: 'https://reprogramando-futuro-webapi.azurewebsites.net', // porta da sua API local
 };
