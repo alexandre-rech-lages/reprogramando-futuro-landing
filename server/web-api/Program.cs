@@ -37,8 +37,12 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.MapGet("/health", () => Results.Ok())
-   .WithName("HealthCheck");
+
+app.MapMethods("/health", new[] { "HEAD" }, () =>
+{
+    // Sem corpo na resposta (HEAD)
+    return Results.Ok();
+});
 
 app.MapPost("/api/enrollment", EnrollmentEndPoint.HandleEnrollmentAsync)
 .WithName("CreateEnrollment");
