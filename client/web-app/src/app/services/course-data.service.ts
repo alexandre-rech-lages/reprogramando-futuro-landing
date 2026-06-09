@@ -197,19 +197,19 @@ export class CourseDataService {
       name: 'Professor Tiago Santini',
       profile: 'Desenvolvedor Full Stack com 5 anos de experiência em tecnologia e ensino de programação',
       quote: 'Educar é acender possibilidades: quando o aluno descobre que pode criar, ele deixa de apenas aprender e passa a transformar o mundo ao seu redor.',
-      photo: 'assets/teachers/tiago.png'
+      photo: 'assets/teachers/tiago.webp'
     },
     {
       name: 'Professor Alexandre Rech',
       profile: 'Desenvolvedor Full Stack com 20 anos de experiência em tecnologia e ensino de programação',
       quote: 'O verdadeiro ensino vai além dos livros; é uma troca constante de experiências, um diálogo que transforma mentes e corações.',
-      photo: 'assets/teachers/rech.png'
+      photo: 'assets/teachers/rech.webp'
     },
     {
       name: 'Professora Isadora Garcia',
       profile: 'Desenvolvedora Full Stack com 2 anos de experiência em tecnologia e ensino de programação',
       quote: 'Cada pergunta dos alunos é uma oportunidade de despertar a curiosidade, estimular o pensamento crítico e plantar as sementes do aprendizado.',
-      photo: 'assets/teachers/isadora.png'
+      photo: 'assets/teachers/isadora.webp'
     }
   ];
 

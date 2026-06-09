@@ -22,7 +22,7 @@ export class BannerComponent {
 
   protected readonly backgroundImage = computed(() => {
     const breakpoint = this.resolveBreakpoint(this.viewportWidth());
-    return `assets/banner-topo-${breakpoint}-2.png`;
+    return `assets/banner-topo-${breakpoint}.webp`;
   });
 
   @HostListener('window:resize')

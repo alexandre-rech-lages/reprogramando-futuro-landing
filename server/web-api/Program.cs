@@ -45,6 +45,6 @@ app.MapMethods("/health", new[] { "HEAD" }, () =>
 });
 
 app.MapPost("/api/enrollment", EnrollmentEndPoint.HandleEnrollmentAsync)
-.WithName("CreateEnrollment");
+    .WithName("CreateEnrollment");
 
 app.Run();
