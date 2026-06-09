@@ -1,6 +1,8 @@
 import { Injectable } from '@angular/core';
 import { Feature, Modality, Outcome, Teacher } from '../models/course.model';
 
+const CDN = 'https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev';
+
 @Injectable({ providedIn: 'root' })
 export class CourseDataService {
 
@@ -102,39 +104,39 @@ export class CourseDataService {
   readonly reasons = [
     {
       number: '01',
-      figure: 'assets/reasons/1.png',
+      figure: `${CDN}/reasons/1.png`,
       title: 'Programar vai além do futuro profissional; desenvolve habilidades essenciais e as crianças se divertem.',
       subtitle: 'Aprender a programar não é útil apenas se você quiser ser um programador no futuro. Programar ajuda em outras habilidades, como resolver problemas, desenvolve o raciocínio lógico e contribui em outras matérias como ciências, matemática, interpretação... Além disso, programar é muito divertido!'
     },
     {
       number: '02',
-      figure: 'assets/reasons/2.png',
+      figure: `${CDN}/reasons/2.png`,
       title: 'Aumento da Resiliência e Ajuda lidar com Frustações',
       subtitle: 'Na programação todos os detalhes importam e um erro pode prejudicar todo o funcionamento, errar faz parte de todo o processo e expor ao erro e oportunidade de acerto em ambiente controlado ajuda na criação de uma personalidade sadia.'
 
     },
     {
       number: '03',
-      figure: 'assets/reasons/3.png',
+      figure: `${CDN}/reasons/3.png`,
       title: 'Trabalha a Resolução de Problemas e o Pensamento Computacional',
       subtitle: 'Não tem como fugir, decisões e resolução de problemas são ações obrigatórias em nossas vidas. O pensamento computacional traz, uma metodologia, que parte da divisão do problema em uma sequência de partes menores.'
 
     },
     {
       number: '04',
-      figure: 'assets/reasons/4.png',
+      figure: `${CDN}/reasons/4.png`,
       title: 'Uso produtivo da Tecnologia promove a aprendizagem colaborativa e o trabalho em equipe.',
       subtitle: 'A tecnologia pode ser usada para fomentar a colaboração entre os alunos, permitindo que eles trabalhem em conjunto para resolver problemas e desenvolver projetos, melhorando habilidades sociais e de trabalho em equipe.'
     },
     {
       number: '05',
-      figure: 'assets/reasons/5.png',
+      figure: `${CDN}/reasons/5.png`,
       title: '“Crianças brasileiras e a tecnologia: mais consumo do que criação.”',
       subtitle: 'A maioria das crianças brasileiras passa boa parte do tempo em dispositivos digitais consumindo conteúdos prontos — vídeos, jogos e redes sociais — em vez de utilizá-los como ferramentas de criação. Isso limita o desenvolvimento de habilidades essenciais como pensamento crítico, resolução de problemas e criatividade. '
     },
     {
       number: '06',
-      figure: 'assets/reasons/6.png',
+      figure: `${CDN}/reasons/6.png`,
       title: 'A programação será essencial para o futuro, quanto mais cedo as crianças começarem a aprender, melhor.',
       subtitle: 'Vivemos em um mundo cada vez mais digital, onde a tecnologia desempenha um papel fundamental em nossas vidas. A programação é uma habilidade essencial para o futuro, e quanto mais cedo as crianças começarem a aprender, melhor. Aprender a programar pode abrir portas para oportunidades de carreira.'
     }
@@ -145,7 +147,7 @@ export class CourseDataService {
       name: 'Módulo 1',
       description: 'Primeiros passos na programação com criação de jogos e animações',
       icon: 'bi-1-square',
-      logo: 'assets/about/scratch-logo.svg',
+      logo: `${CDN}/about/scratch-logo.svg`,
       color: 'purple',
       highlights: [
         'Introdução à lógica de programação',
@@ -157,7 +159,7 @@ export class CourseDataService {
       name: 'Módulo 2',
       description: 'Desenvolvimento de jogos 2D com mecânicas mais avançadas',
       icon: 'bi-2-square',
-      logo: 'assets/about/construct-logo.svg',
+      logo: `${CDN}/about/construct-logo.svg`,
       color: 'purple',
       highlights: [
         'Criação de jogos no Construct 3',
@@ -169,7 +171,7 @@ export class CourseDataService {
       name: 'Módulo 3',
       description: 'Criação de jogos 3D com experiências multiplayer e mundos interativos',
       icon: 'bi-3-square',
-      logo: 'assets/about/roblox-logo.svg',
+      logo: `${CDN}/about/roblox-logo.svg`,
       color: 'purple',
       highlights: [
         'Desenvolvimento de jogos no Roblox Studio',
@@ -197,19 +199,19 @@ export class CourseDataService {
       name: 'Professor Tiago Santini',
       profile: 'Desenvolvedor Full Stack com 5 anos de experiência em tecnologia e ensino de programação',
       quote: 'Educar é acender possibilidades: quando o aluno descobre que pode criar, ele deixa de apenas aprender e passa a transformar o mundo ao seu redor.',
-      photo: 'assets/teachers/tiago.webp'
+      photo: `${CDN}/teachers/tiago.webp`
     },
     {
       name: 'Professor Alexandre Rech',
       profile: 'Desenvolvedor Full Stack com 20 anos de experiência em tecnologia e ensino de programação',
       quote: 'O verdadeiro ensino vai além dos livros; é uma troca constante de experiências, um diálogo que transforma mentes e corações.',
-      photo: 'assets/teachers/rech.webp'
+      photo: `${CDN}/teachers/rech.webp`
     },
     {
       name: 'Professora Isadora Garcia',
       profile: 'Desenvolvedora Full Stack com 2 anos de experiência em tecnologia e ensino de programação',
       quote: 'Cada pergunta dos alunos é uma oportunidade de despertar a curiosidade, estimular o pensamento crítico e plantar as sementes do aprendizado.',
-      photo: 'assets/teachers/isadora.webp'
+      photo: `${CDN}/teachers/isadora.webp`
     }
   ];
 
