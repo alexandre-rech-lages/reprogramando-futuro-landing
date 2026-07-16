@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+
+  <!--
+    Reprogramando Futuro — Sitemap
+    Curso de programação para crianças e adolescentes de 10 a 17 anos
+    Navegação: O curso | Por que | Como funciona | Professores | Modalidades | Resultados | Parceiros
+    Domínio: atualizar para o domínio customizado quando configurado
+  -->
+
+  <!-- ============================================================
+       PÁGINA PRINCIPAL
+       ============================================================ -->
+  <url>
+    <loc>https://brave-water-031df840f.azurestaticapps.net/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://brave-water-031df840f.azurestaticapps.net/"/>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/logo-reprogramando-futuro.svg</image:loc>
+      <image:title>Reprogramando Futuro — Curso de Programação para Crianças e Adolescentes</image:title>
+      <image:caption>Logo do Reprogramando Futuro, curso de programação para jovens de 10 a 17 anos com trilhas em Scratch, Construct 3 e Roblox.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/banner-topo-desktop.webp</image:loc>
+      <image:title>Tecnologia, criatividade e aprendizado para o futuro do seu filho(a)</image:title>
+      <image:caption>Uma formação imersiva em programação para crianças e adolescentes que querem deixar de apenas consumir tecnologia e começar a criar. Aulas semanais, projetos reais e um portfólio que desenvolve criatividade, raciocínio lógico e prepara para as profissões do futuro.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ============================================================
+       #topo — BANNER / HERO
+       ============================================================ -->
+  <url>
+    <loc>https://brave-water-031df840f.azurestaticapps.net/#topo</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/banner-topo-desktop.webp</image:loc>
+      <image:title>Tecnologia, criatividade e aprendizado para o futuro do seu filho(a)</image:title>
+      <image:caption>Uma formação imersiva em programação para crianças e adolescentes que querem deixar de apenas consumir tecnologia e começar a criar. Aulas semanais, projetos reais e um portfólio que desenvolve criatividade, raciocínio lógico e prepara para as profissões do futuro.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/banner-topo-tablet.webp</image:loc>
+      <image:title>Reprogramando Futuro — Curso de Programação para Jovens (10 a 17 anos)</image:title>
+      <image:caption>Curso presencial ou online ao vivo com aulas semanais, turmas reduzidas e projetos reais. Início em julho de 2026, inscrições abertas a partir de maio de 2026.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/banner-topo-mobile.webp</image:loc>
+      <image:title>Reprogramando Futuro — Programação para Jovens, Presencial e Online ao Vivo</image:title>
+      <image:caption>Aula experimental grátis, sem compromisso e sem custo. Modalidades presencial na UNIPLAC ou online ao vivo para jovens de 10 a 17 anos.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ============================================================
+       #sobre — O CURSO EM POUCAS PALAVRAS
+       ============================================================ -->
+  <url>
+    <loc>https://brave-water-031df840f.azurestaticapps.net/#sobre</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/about/scratch-logo.svg</image:loc>
+      <image:title>Módulo 1 — Primeiros passos na programação com criação de jogos e animações</image:title>
+      <image:caption>Scratch: primeiros passos na programação com criação de jogos e animações. 20 encontros práticos e interativos, 40 horas de aprendizado por módulo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/about/construct-logo.svg</image:loc>
+      <image:title>Módulo 2 — Desenvolvimento de jogos 2D com mecânicas mais avançadas</image:title>
+      <image:caption>Construct 3: desenvolvimento de jogos 2D com mecânicas mais avançadas. Turmas presenciais na UNIPLAC nos períodos matutino e vespertino ou online ao vivo.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/about/roblox-logo.svg</image:loc>
+      <image:title>Módulo 3 — Criação de jogos 3D com experiências multiplayer e mundos interativos</image:title>
+      <image:caption>Roblox: criação de jogos 3D com experiências multiplayer e mundos interativos. O Reprogramando Futuro oferece aulas semanais de 1h30min e turmas reduzidas de até 14 alunos. Início em julho de 2026.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ============================================================
+       #motivos — POR QUE COMEÇAR AGORA?
+       ============================================================ -->
+  <url>
+    <loc>https://brave-water-031df840f.azurestaticapps.net/#motivos</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/reasons/1.png</image:loc>
+      <image:title>Motivo 1 — Programar vai além do futuro profissional; desenvolve habilidades essenciais</image:title>
+      <image:caption>Aprender a programar não é útil apenas se você quiser ser um programador no futuro. Programar ajuda a resolver problemas, desenvolve o raciocínio lógico e contribui em outras matérias como ciências, matemática e interpretação. Além disso, programar é muito divertido!</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/reasons/2.png</image:loc>
+      <image:title>Motivo 2 — Aumento da Resiliência e Ajuda a lidar com Frustrações</image:title>
+      <image:caption>Na programação todos os detalhes importam e um erro pode prejudicar todo o funcionamento. Errar faz parte do processo e a exposição ao erro em ambiente controlado ajuda na criação de uma personalidade sadia.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/reasons/3.png</image:loc>
+      <image:title>Motivo 3 — Trabalha a Resolução de Problemas e o Pensamento Computacional</image:title>
+      <image:caption>O pensamento computacional traz uma metodologia que parte da divisão do problema em uma sequência de partes menores, preparando jovens para decisões e resolução de problemas na vida.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/reasons/4.png</image:loc>
+      <image:title>Motivo 4 — Uso produtivo da Tecnologia promove aprendizagem colaborativa e trabalho em equipe</image:title>
+      <image:caption>A tecnologia pode ser usada para fomentar a colaboração entre os alunos, permitindo que trabalhem em conjunto para resolver problemas e desenvolver projetos, melhorando habilidades sociais e de trabalho em equipe.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/reasons/5.png</image:loc>
+      <image:title>Motivo 5 — Crianças brasileiras e a tecnologia: mais consumo do que criação</image:title>
+      <image:caption>A maioria das crianças brasileiras passa boa parte do tempo em dispositivos digitais consumindo conteúdos prontos — vídeos, jogos e redes sociais — em vez de utilizá-los como ferramentas de criação, limitando o desenvolvimento de pensamento crítico e criatividade.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/reasons/6.png</image:loc>
+      <image:title>Motivo 6 — A programação será essencial para o futuro; quanto mais cedo começar, melhor</image:title>
+      <image:caption>Vivemos em um mundo cada vez mais digital onde a tecnologia desempenha papel fundamental. A programação é uma habilidade essencial para o futuro e aprender a programar pode abrir portas para oportunidades de carreira. Quanto mais cedo as crianças começarem a aprender, melhor.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ============================================================
+       #como-funciona — TECNOLOGIA COM PROJETOS QUE VIRAM PORTFÓLIO
+       ============================================================ -->
+  <url>
+    <loc>https://brave-water-031df840f.azurestaticapps.net/#como-funciona</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <!--
+      Encaixa na agenda: Uma aula por semana, presencial ou online ao vivo. Sem atropelar a escola.
+      Duração ideal: Aulas entre 1h30 e 2h — tempo suficiente para mergulhar sem cansar.
+      Acompanhamento próximo: Turmas pequenas e professores que conhecem cada aluno pelo nome.
+      Mão na massa do início ao fim: Nada de só teoria. O aluno aprende construindo coisas de verdade.
+      Respeita o calendário escolar: Atividades planejadas para não competir com provas e trabalhos.
+      Projetos que evoluem: Cada módulo aprofunda o anterior — o aluno cresce junto com o portfólio.
+    -->
+  </url>
+
+  <!-- ============================================================
+       #professores — APAIXONADOS POR ENSINAR TECNOLOGIA
+       ============================================================ -->
+  <url>
+    <loc>https://brave-water-031df840f.azurestaticapps.net/#professores</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/teachers/tiago.webp</image:loc>
+      <image:title>Professor Tiago Santini — Desenvolvedor Full Stack, 5 anos de experiência</image:title>
+      <image:caption>Educar é acender possibilidades: quando o aluno descobre que pode criar, ele deixa de apenas aprender e passa a transformar o mundo ao seu redor. — Professor Tiago Santini, Desenvolvedor Full Stack com 5 anos de experiência em tecnologia e ensino de programação.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/teachers/rech.webp</image:loc>
+      <image:title>Professor Alexandre Rech — Desenvolvedor Full Stack, 20 anos de experiência</image:title>
+      <image:caption>O verdadeiro ensino vai além dos livros; é uma troca constante de experiências, um diálogo que transforma mentes e corações. — Professor Alexandre Rech, Desenvolvedor Full Stack com 20 anos de experiência em tecnologia e ensino de programação.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/teachers/isadora.webp</image:loc>
+      <image:title>Professora Isadora Garcia — Desenvolvedora Full Stack, 2 anos de experiência</image:title>
+      <image:caption>Cada pergunta dos alunos é uma oportunidade de despertar a curiosidade, estimular o pensamento crítico e plantar as sementes do aprendizado. — Professora Isadora Garcia, Desenvolvedora Full Stack com 2 anos de experiência em tecnologia e ensino de programação.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ============================================================
+       #modalidades — DOIS CAMINHOS, A MESMA JORNADA
+       ============================================================ -->
+  <url>
+    <loc>https://brave-water-031df840f.azurestaticapps.net/#modalidades</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <!--
+      Presencial — Encontros presenciais, lado a lado com a turma.
+        3 módulos completos | 120 horas no total | 75 aulas distribuídas | 1h30 por aula | Até 14 alunos por turma.
+        Aulas na UNIPLAC com turmas nos períodos matutino e vespertino.
+
+      Online ao vivo — A mesma experiência, com a comodidade de casa.
+        3 módulos completos | 120 horas no total | 75 aulas distribuídas | 1h30 por aula | Até 20 alunos por turma.
+
+      Escolha o formato que se encaixa melhor na rotina da família — o conteúdo, a profundidade e os projetos são os mesmos.
+    -->
+  </url>
+
+  <!-- ============================================================
+       #resultados — RESULTADOS CONCRETOS
+       ============================================================ -->
+  <url>
+    <loc>https://brave-water-031df840f.azurestaticapps.net/#resultados</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <!--
+      No fim da jornada, seu filho(a) será capaz de criar tecnologia de verdade.
+      O que diferencia esta formação é a entrega final: um conjunto de projetos publicados,
+      que mostram domínio técnico real e podem ser apresentados em qualquer processo seletivo.
+
+      - Criar jogos e animações do zero usando Scratch
+      - Desenvolver jogos 2D com mecânicas avançadas no Construct 3
+      - Construir mundos 3D e experiências multiplayer no Roblox
+      - Montar um portfólio de projetos de jogos e compartilhar online
+      - Entender lógica de programação de forma prática e divertida
+      - Dar os primeiros passos na criação de jogos digitais
+    -->
+  </url>
+
+  <!-- ============================================================
+       #parceiros — PARCEIROS INSTITUCIONAIS
+       ============================================================ -->
+  <url>
+    <loc>https://brave-water-031df840f.azurestaticapps.net/#parceiros</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/logotipo-midilages.svg</image:loc>
+      <image:title>Midilages — Incubadora de Empresas parceira do Reprogramando Futuro</image:title>
+      <image:caption>A Midilages é a incubadora de empresas que abriga a CodeTeens, oferecendo estrutura, mentoria e conexões estratégicas para transformar nossa ideia em um negócio de impacto real para jovens e famílias da região. Ambiente de inovação e empreendedorismo, suporte para crescimento sustentável e rede de parceiros e mentores locais.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pub-7078d317907847eb961dd7a3f6f945de.r2.dev/logotipo-uniplac.svg</image:loc>
+      <image:title>UNIPLAC — Universidade do Planalto Catarinense, parceira do Reprogramando Futuro</image:title>
+      <image:caption>A UNIPLAC — Universidade do Planalto Catarinense é onde o fundador da CodeTeens se graduou e atuou como professor universitário, consolidando a base pedagógica que orienta cada aula e método de ensino do curso. Base acadêmica sólida e reconhecida, metodologia pedagógica testada na prática e vínculo com a comunidade catarinense.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ============================================================
+       #matricula — FORMULÁRIO DE MATRÍCULA / PRIMEIRO PASSO
+       ============================================================ -->
+  <url>
+    <loc>https://brave-water-031df840f.azurestaticapps.net/#matricula</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <!--
+      Pronto para ver seu filho(a) criar tecnologia?
+      Preencha o formulário e nossa equipe vai entrar em contato para agendar uma aula experimental sem custo
+      e tirar todas as dúvidas sobre o programa.
+
+      - Aula experimental grátis
+      - Sem compromisso e sem custo
+      - Atendimento personalizado
+      - Nossa equipe responde em até 1 dia útil
+      - Seus dados protegidos — usamos suas informações apenas para o contato
+    -->
+  </url>
+
+</urlset>
